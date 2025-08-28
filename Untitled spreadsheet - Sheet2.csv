@@ -1,0 +1,301 @@
+Hashtag,Category,Usage_Context,Platform_Suitability,Popularity_Score,Best_Posting_Time
+#ForexTrading,Core Trading & Forex,"Educational posts, market analysis, trading tips",All platforms,6,Market opening hours
+#Forex,Core Trading & Forex,"Educational posts, market analysis, trading tips",All platforms,6,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#FX,Core Trading & Forex,"Educational posts, market analysis, trading tips",All platforms,8,Market opening hours
+#CurrencyTrading,Core Trading & Forex,"Educational posts, market analysis, trading tips",All platforms,7,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#ForexMarket,Core Trading & Forex,"Educational posts, market analysis, trading tips",All platforms,7,Weekends
+#ForexLife,Core Trading & Forex,"Educational posts, market analysis, trading tips",All platforms,7,Market opening hours
+#ForexSignals,Core Trading & Forex,"Educational posts, market analysis, trading tips",All platforms,6,Market opening hours
+#ForexEducation,Core Trading & Forex,"Educational posts, market analysis, trading tips",All platforms,10,Market opening hours
+#ForexStrategy,Core Trading & Forex,"Educational posts, market analysis, trading tips",All platforms,6,Evening (6-10 PM GMT)
+#ForexTips,Core Trading & Forex,"Educational posts, market analysis, trading tips",All platforms,10,Evening (6-10 PM GMT)
+#ForexAnalysis,Core Trading & Forex,"Educational posts, market analysis, trading tips",All platforms,9,Business hours (9 AM - 6 PM GMT)
+#ForexChart,Core Trading & Forex,"Educational posts, market analysis, trading tips",All platforms,6,Evening (6-10 PM GMT)
+#ForexBroker,Core Trading & Forex,"Educational posts, market analysis, trading tips",All platforms,6,Business hours (9 AM - 6 PM GMT)
+#ForexPlatform,Core Trading & Forex,"Educational posts, market analysis, trading tips",All platforms,6,Evening (6-10 PM GMT)
+#ForexExpert,Core Trading & Forex,"Educational posts, market analysis, trading tips",All platforms,7,Weekends
+#CurrencyPairs,Core Trading & Forex,"Educational posts, market analysis, trading tips",All platforms,7,Business hours (9 AM - 6 PM GMT)
+#EURUSD,Core Trading & Forex,"Educational posts, market analysis, trading tips",All platforms,10,Evening (6-10 PM GMT)
+#GBPUSD,Core Trading & Forex,"Educational posts, market analysis, trading tips",All platforms,10,Weekends
+#USDJPY,Core Trading & Forex,"Educational posts, market analysis, trading tips",All platforms,6,Evening (6-10 PM GMT)
+#AUDUSD,Core Trading & Forex,"Educational posts, market analysis, trading tips",All platforms,10,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#ForexTrader,Core Trading & Forex,"Currency trading content, market updates",All platforms,7,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#DayTrading,Core Trading & Forex,"Currency trading content, market updates",All platforms,10,Weekends
+#ScalpTrading,Core Trading & Forex,"Currency trading content, market updates",All platforms,9,Market opening hours
+#SwingTrading,Core Trading & Forex,"Currency trading content, market updates",All platforms,7,Market opening hours
+#PositionTrading,Core Trading & Forex,"Currency trading content, market updates",All platforms,9,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#TechnicalAnalysis,Core Trading & Forex,"Currency trading content, market updates",All platforms,10,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#FundamentalAnalysis,Core Trading & Forex,"Currency trading content, market updates",All platforms,8,Market opening hours
+#MarketAnalysis,Core Trading & Forex,"Currency trading content, market updates",All platforms,6,Business hours (9 AM - 6 PM GMT)
+#TradingSignals,Core Trading & Forex,"Currency trading content, market updates",All platforms,7,Market opening hours
+#TradingTips,Core Trading & Forex,"Currency trading content, market updates",All platforms,9,Evening (6-10 PM GMT)
+#PipProfit,Core Trading & Forex,"Currency trading content, market updates","Twitter, LinkedIn, Instagram",8,Business hours (9 AM - 6 PM GMT)
+#SpreadTrading,Core Trading & Forex,"Currency trading content, market updates","Twitter, LinkedIn, Instagram",8,Evening (6-10 PM GMT)
+#LeverageTrading,Core Trading & Forex,"Currency trading content, market updates","Twitter, LinkedIn, Instagram",7,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#ForexNews,Core Trading & Forex,"Currency trading content, market updates","Twitter, LinkedIn, Instagram",7,Business hours (9 AM - 6 PM GMT)
+#EconomicCalendar,Core Trading & Forex,"Currency trading content, market updates","Twitter, LinkedIn, Instagram",8,Evening (6-10 PM GMT)
+#CentralBank,Core Trading & Forex,"Technical analysis posts, strategy sharing","Twitter, LinkedIn, Instagram",6,Evening (6-10 PM GMT)
+#InterestRates,Core Trading & Forex,"Technical analysis posts, strategy sharing","Twitter, LinkedIn, Instagram",6,Business hours (9 AM - 6 PM GMT)
+#GDP,Core Trading & Forex,"Technical analysis posts, strategy sharing","Twitter, LinkedIn, Instagram",9,Weekends
+#Inflation,Core Trading & Forex,"Technical analysis posts, strategy sharing","Twitter, LinkedIn, Instagram",6,Market opening hours
+#NFP,Core Trading & Forex,"Technical analysis posts, strategy sharing","Twitter, LinkedIn, Instagram",8,Evening (6-10 PM GMT)
+#ForexPsychology,Core Trading & Forex,"Technical analysis posts, strategy sharing","Twitter, LinkedIn, Instagram",8,Market opening hours
+#RiskManagement,Core Trading & Forex,"Technical analysis posts, strategy sharing","Twitter, LinkedIn, Instagram",10,Market opening hours
+#MoneyManagement,Core Trading & Forex,"Technical analysis posts, strategy sharing","Twitter, LinkedIn, Instagram",8,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#StopLoss,Core Trading & Forex,"Technical analysis posts, strategy sharing","Twitter, LinkedIn, Instagram",6,Market opening hours
+#TakeProfit,Core Trading & Forex,"Technical analysis posts, strategy sharing","Twitter, LinkedIn, Instagram",9,Evening (6-10 PM GMT)
+#SupportResistance,Core Trading & Forex,"Technical analysis posts, strategy sharing","Twitter, LinkedIn, Instagram",10,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#Breakout,Core Trading & Forex,"Technical analysis posts, strategy sharing","Twitter, LinkedIn, Instagram",6,Business hours (9 AM - 6 PM GMT)
+#Reversal,Core Trading & Forex,"Technical analysis posts, strategy sharing","Twitter, LinkedIn, Instagram",9,Evening (6-10 PM GMT)
+#Trend,Core Trading & Forex,"Technical analysis posts, strategy sharing","Twitter, LinkedIn, Instagram",6,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#Consolidation,Core Trading & Forex,"Technical analysis posts, strategy sharing","Twitter, LinkedIn, Instagram",10,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#CFDTrading,CFD & Multi-Asset Trading,"Multi-asset trading content, product promotion","LinkedIn, Twitter, YouTube",8,Market opening hours
+#CFD,CFD & Multi-Asset Trading,"Multi-asset trading content, product promotion","LinkedIn, Twitter, YouTube",10,Business hours (9 AM - 6 PM GMT)
+#StockCFD,CFD & Multi-Asset Trading,"Multi-asset trading content, product promotion","LinkedIn, Twitter, YouTube",8,Evening (6-10 PM GMT)
+#CommodityCFD,CFD & Multi-Asset Trading,"Multi-asset trading content, product promotion","LinkedIn, Twitter, YouTube",10,Evening (6-10 PM GMT)
+#IndexCFD,CFD & Multi-Asset Trading,"Multi-asset trading content, product promotion","LinkedIn, Twitter, YouTube",7,Market opening hours
+#CryptoTrading,CFD & Multi-Asset Trading,"Multi-asset trading content, product promotion","LinkedIn, Twitter, YouTube",6,Business hours (9 AM - 6 PM GMT)
+#Bitcoin,CFD & Multi-Asset Trading,"Multi-asset trading content, product promotion","LinkedIn, Twitter, YouTube",6,Evening (6-10 PM GMT)
+#Ethereum,CFD & Multi-Asset Trading,"Multi-asset trading content, product promotion","LinkedIn, Twitter, YouTube",7,Business hours (9 AM - 6 PM GMT)
+#Cryptocurrency,CFD & Multi-Asset Trading,"Multi-asset trading content, product promotion","LinkedIn, Twitter, YouTube",8,Evening (6-10 PM GMT)
+#DigitalAssets,CFD & Multi-Asset Trading,"Multi-asset trading content, product promotion","LinkedIn, Twitter, YouTube",6,Market opening hours
+#StockTrading,CFD & Multi-Asset Trading,"Multi-asset trading content, product promotion","LinkedIn, Twitter, YouTube",7,Weekends
+#Stocks,CFD & Multi-Asset Trading,"Multi-asset trading content, product promotion","LinkedIn, Twitter, YouTube",6,Evening (6-10 PM GMT)
+#Shares,CFD & Multi-Asset Trading,"Multi-asset trading content, product promotion","LinkedIn, Twitter, YouTube",9,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#Equity,CFD & Multi-Asset Trading,"Multi-asset trading content, product promotion","LinkedIn, Twitter, YouTube",8,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#StockMarket,CFD & Multi-Asset Trading,"Multi-asset trading content, product promotion","LinkedIn, Twitter, YouTube",9,Weekends
+#CommodityTrading,CFD & Multi-Asset Trading,"Multi-asset trading content, product promotion","LinkedIn, Twitter, YouTube",8,Evening (6-10 PM GMT)
+#Gold,CFD & Multi-Asset Trading,"Multi-asset trading content, product promotion","LinkedIn, Twitter, YouTube",7,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#Silver,CFD & Multi-Asset Trading,"Multi-asset trading content, product promotion","LinkedIn, Twitter, YouTube",8,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#Oil,CFD & Multi-Asset Trading,"Multi-asset trading content, product promotion","LinkedIn, Twitter, YouTube",8,Evening (6-10 PM GMT)
+#NaturalGas,CFD & Multi-Asset Trading,"Multi-asset trading content, product promotion","LinkedIn, Twitter, YouTube",7,Business hours (9 AM - 6 PM GMT)
+#IndexTrading,CFD & Multi-Asset Trading,"Multi-asset trading content, product promotion","LinkedIn, Twitter, YouTube",8,Evening (6-10 PM GMT)
+#SP500,CFD & Multi-Asset Trading,"Multi-asset trading content, product promotion","LinkedIn, Twitter, YouTube",6,Business hours (9 AM - 6 PM GMT)
+#NASDAQ,CFD & Multi-Asset Trading,"Multi-asset trading content, product promotion","LinkedIn, Twitter, YouTube",10,Weekends
+#DowJones,CFD & Multi-Asset Trading,"Multi-asset trading content, product promotion","LinkedIn, Twitter, YouTube",7,Market opening hours
+#FTSE100,CFD & Multi-Asset Trading,"Multi-asset trading content, product promotion","LinkedIn, Twitter, YouTube",10,Weekends
+#MetaTrader5,CFD & Multi-Asset Trading,"Multi-asset trading content, product promotion","LinkedIn, Twitter, YouTube",7,Market opening hours
+#MT5,CFD & Multi-Asset Trading,"Multi-asset trading content, product promotion","LinkedIn, Twitter, YouTube",7,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#TradingPlatform,CFD & Multi-Asset Trading,"Multi-asset trading content, product promotion","LinkedIn, Twitter, YouTube",9,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#ChartAnalysis,CFD & Multi-Asset Trading,"Multi-asset trading content, product promotion","LinkedIn, Twitter, YouTube",9,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#TradingTools,CFD & Multi-Asset Trading,"Multi-asset trading content, product promotion","LinkedIn, Twitter, YouTube",8,Business hours (9 AM - 6 PM GMT)
+#TradingEducation,Trading Education & Strategy,"Educational content, tutorials, webinars","YouTube, LinkedIn, Medium",10,Market opening hours
+#LearnTrading,Trading Education & Strategy,"Educational content, tutorials, webinars","YouTube, LinkedIn, Medium",7,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#TradingCourse,Trading Education & Strategy,"Educational content, tutorials, webinars","YouTube, LinkedIn, Medium",8,Evening (6-10 PM GMT)
+#TradingAcademy,Trading Education & Strategy,"Educational content, tutorials, webinars","YouTube, LinkedIn, Medium",6,Market opening hours
+#TradingMentor,Trading Education & Strategy,"Educational content, tutorials, webinars","YouTube, LinkedIn, Medium",7,Market opening hours
+#TradingStrategy,Trading Education & Strategy,"Educational content, tutorials, webinars","YouTube, LinkedIn, Medium",6,Business hours (9 AM - 6 PM GMT)
+#TradingSystem,Trading Education & Strategy,"Educational content, tutorials, webinars","YouTube, LinkedIn, Medium",8,Weekends
+#TradingPlan,Trading Education & Strategy,"Educational content, tutorials, webinars","YouTube, LinkedIn, Medium",9,Business hours (9 AM - 6 PM GMT)
+#TradingJournal,Trading Education & Strategy,"Educational content, tutorials, webinars","YouTube, LinkedIn, Medium",8,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#TradingDiscipline,Trading Education & Strategy,"Educational content, tutorials, webinars","YouTube, LinkedIn, Medium",6,Evening (6-10 PM GMT)
+#PriceAction,Trading Education & Strategy,"Educational content, tutorials, webinars","YouTube, LinkedIn, Medium",7,Evening (6-10 PM GMT)
+#Candlesticks,Trading Education & Strategy,"Educational content, tutorials, webinars","YouTube, LinkedIn, Medium",10,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#MovingAverages,Trading Education & Strategy,"Educational content, tutorials, webinars","YouTube, LinkedIn, Medium",8,Evening (6-10 PM GMT)
+#RSI,Trading Education & Strategy,"Educational content, tutorials, webinars","YouTube, LinkedIn, Medium",7,Business hours (9 AM - 6 PM GMT)
+#MACD,Trading Education & Strategy,"Educational content, tutorials, webinars","YouTube, LinkedIn, Medium",9,Business hours (9 AM - 6 PM GMT)
+#Fibonacci,Trading Education & Strategy,"Educational content, tutorials, webinars","YouTube, LinkedIn, Medium",9,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#Bollinger,Trading Education & Strategy,"Educational content, tutorials, webinars","YouTube, LinkedIn, Medium",9,Evening (6-10 PM GMT)
+#Stochastic,Trading Education & Strategy,"Educational content, tutorials, webinars","YouTube, LinkedIn, Medium",7,Market opening hours
+#ADX,Trading Education & Strategy,"Educational content, tutorials, webinars","YouTube, LinkedIn, Medium",8,Weekends
+#Ichimoku,Trading Education & Strategy,"Educational content, tutorials, webinars","YouTube, LinkedIn, Medium",7,Market opening hours
+#TradingPsychology,Trading Education & Strategy,"Educational content, tutorials, webinars","YouTube, LinkedIn, Medium",7,Business hours (9 AM - 6 PM GMT)
+#TradingMindset,Trading Education & Strategy,"Educational content, tutorials, webinars","YouTube, LinkedIn, Medium",10,Business hours (9 AM - 6 PM GMT)
+#TradingEmotions,Trading Education & Strategy,"Educational content, tutorials, webinars","YouTube, LinkedIn, Medium",10,Business hours (9 AM - 6 PM GMT)
+#TradingFear,Trading Education & Strategy,"Educational content, tutorials, webinars","YouTube, LinkedIn, Medium",8,Business hours (9 AM - 6 PM GMT)
+#TradingGreed,Trading Education & Strategy,"Educational content, tutorials, webinars","YouTube, LinkedIn, Medium",10,Weekends
+#BeginnerTrader,Trading Education & Strategy,"Educational content, tutorials, webinars","Instagram, TikTok, Twitter",9,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#AdvancedTrading,Trading Education & Strategy,"Educational content, tutorials, webinars","Instagram, TikTok, Twitter",10,Business hours (9 AM - 6 PM GMT)
+#ProfessionalTrader,Trading Education & Strategy,"Educational content, tutorials, webinars","Instagram, TikTok, Twitter",9,Evening (6-10 PM GMT)
+#RetailTrader,Trading Education & Strategy,"Educational content, tutorials, webinars","Instagram, TikTok, Twitter",8,Weekends
+#InstitutionalTrading,Trading Education & Strategy,"Educational content, tutorials, webinars","Instagram, TikTok, Twitter",7,Business hours (9 AM - 6 PM GMT)
+#MarketStructure,Trading Education & Strategy,"Educational content, tutorials, webinars","Instagram, TikTok, Twitter",7,Evening (6-10 PM GMT)
+#LiquidityPool,Trading Education & Strategy,"Educational content, tutorials, webinars","Instagram, TikTok, Twitter",10,Business hours (9 AM - 6 PM GMT)
+#OrderFlow,Trading Education & Strategy,"Educational content, tutorials, webinars","Instagram, TikTok, Twitter",9,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#VolumeAnalysis,Trading Education & Strategy,"Educational content, tutorials, webinars","Instagram, TikTok, Twitter",6,Weekends
+#MarketSentiment,Trading Education & Strategy,"Educational content, tutorials, webinars","Instagram, TikTok, Twitter",6,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#BackTesting,Trading Education & Strategy,"Educational content, tutorials, webinars","Instagram, TikTok, Twitter",6,Weekends
+#ForwardTesting,Trading Education & Strategy,"Educational content, tutorials, webinars","Instagram, TikTok, Twitter",7,Business hours (9 AM - 6 PM GMT)
+#TradingBot,Trading Education & Strategy,"Educational content, tutorials, webinars","Instagram, TikTok, Twitter",7,Business hours (9 AM - 6 PM GMT)
+#AlgorithmicTrading,Trading Education & Strategy,"Educational content, tutorials, webinars","Instagram, TikTok, Twitter",9,Weekends
+#AutoTrading,Trading Education & Strategy,"Educational content, tutorials, webinars","Instagram, TikTok, Twitter",10,Evening (6-10 PM GMT)
+#FinancialMarkets,Financial Markets & Investment,"Market commentary, investment advice, news","LinkedIn, Twitter, Medium",6,Evening (6-10 PM GMT)
+#Investment,Financial Markets & Investment,"Market commentary, investment advice, news","LinkedIn, Twitter, Medium",9,Business hours (9 AM - 6 PM GMT)
+#Investing,Financial Markets & Investment,"Market commentary, investment advice, news","LinkedIn, Twitter, Medium",9,Business hours (9 AM - 6 PM GMT)
+#InvestmentStrategy,Financial Markets & Investment,"Market commentary, investment advice, news","LinkedIn, Twitter, Medium",10,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#Portfolio,Financial Markets & Investment,"Market commentary, investment advice, news","LinkedIn, Twitter, Medium",9,Business hours (9 AM - 6 PM GMT)
+#WealthBuilding,Financial Markets & Investment,"Market commentary, investment advice, news","LinkedIn, Twitter, Medium",10,Weekends
+#PassiveIncome,Financial Markets & Investment,"Market commentary, investment advice, news","LinkedIn, Twitter, Medium",8,Evening (6-10 PM GMT)
+#ActiveTrading,Financial Markets & Investment,"Market commentary, investment advice, news","LinkedIn, Twitter, Medium",10,Evening (6-10 PM GMT)
+#LongTermInvesting,Financial Markets & Investment,"Market commentary, investment advice, news","LinkedIn, Twitter, Medium",6,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#ShortTermTrading,Financial Markets & Investment,"Market commentary, investment advice, news","LinkedIn, Twitter, Medium",6,Evening (6-10 PM GMT)
+#MarketVolatility,Financial Markets & Investment,"Market commentary, investment advice, news","LinkedIn, Twitter, Medium",10,Evening (6-10 PM GMT)
+#BullMarket,Financial Markets & Investment,"Market commentary, investment advice, news","LinkedIn, Twitter, Medium",8,Market opening hours
+#BearMarket,Financial Markets & Investment,"Market commentary, investment advice, news","LinkedIn, Twitter, Medium",8,Weekends
+#MarketCorrection,Financial Markets & Investment,"Market commentary, investment advice, news","LinkedIn, Twitter, Medium",6,Market opening hours
+#MarketCrash,Financial Markets & Investment,"Market commentary, investment advice, news","LinkedIn, Twitter, Medium",8,Evening (6-10 PM GMT)
+#EconomicData,Financial Markets & Investment,"Market commentary, investment advice, news","LinkedIn, Twitter, Medium",9,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#FederalReserve,Financial Markets & Investment,"Market commentary, investment advice, news","LinkedIn, Twitter, Medium",7,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#ECB,Financial Markets & Investment,"Market commentary, investment advice, news","LinkedIn, Twitter, Medium",9,Evening (6-10 PM GMT)
+#BankOfEngland,Financial Markets & Investment,"Market commentary, investment advice, news","LinkedIn, Twitter, Medium",6,Business hours (9 AM - 6 PM GMT)
+#BoJ,Financial Markets & Investment,"Market commentary, investment advice, news","LinkedIn, Twitter, Medium",8,Market opening hours
+#MarketNews,Financial Markets & Investment,"Market commentary, investment advice, news","LinkedIn, Twitter, Medium",10,Evening (6-10 PM GMT)
+#FinancialNews,Financial Markets & Investment,"Market commentary, investment advice, news","LinkedIn, Twitter, Medium",7,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#TradingNews,Financial Markets & Investment,"Market commentary, investment advice, news","LinkedIn, Twitter, Medium",10,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#EconomicNews,Financial Markets & Investment,"Market commentary, investment advice, news","LinkedIn, Twitter, Medium",6,Market opening hours
+#GlobalMarkets,Financial Markets & Investment,"Market commentary, investment advice, news","LinkedIn, Twitter, Medium",8,Weekends
+#EmergingMarkets,Financial Markets & Investment,"Market commentary, investment advice, news","LinkedIn, Twitter, Medium",10,Evening (6-10 PM GMT)
+#DevelopedMarkets,Financial Markets & Investment,"Market commentary, investment advice, news","LinkedIn, Twitter, Medium",10,Evening (6-10 PM GMT)
+#AsianMarkets,Financial Markets & Investment,"Market commentary, investment advice, news","LinkedIn, Twitter, Medium",7,Weekends
+#EuropeanMarkets,Financial Markets & Investment,"Market commentary, investment advice, news","LinkedIn, Twitter, Medium",7,Market opening hours
+#AmericanMarkets,Financial Markets & Investment,"Market commentary, investment advice, news","LinkedIn, Twitter, Medium",8,Market opening hours
+#RiskOn,Financial Markets & Investment,"Market commentary, investment advice, news","LinkedIn, Twitter, Medium",7,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#RiskOff,Financial Markets & Investment,"Market commentary, investment advice, news","LinkedIn, Twitter, Medium",10,Weekends
+#SafeHaven,Financial Markets & Investment,"Market commentary, investment advice, news","LinkedIn, Twitter, Medium",10,Market opening hours
+#HighRisk,Financial Markets & Investment,"Market commentary, investment advice, news","LinkedIn, Twitter, Medium",6,Business hours (9 AM - 6 PM GMT)
+#LowRisk,Financial Markets & Investment,"Market commentary, investment advice, news","LinkedIn, Twitter, Medium",10,Evening (6-10 PM GMT)
+#TradingTechnology,Technology & Platform,"Platform features, technology updates","LinkedIn, Twitter, YouTube",8,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#FinTech,Technology & Platform,"Platform features, technology updates","LinkedIn, Twitter, YouTube",9,Weekends
+#TradingApp,Technology & Platform,"Platform features, technology updates","LinkedIn, Twitter, YouTube",6,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#MobileTrading,Technology & Platform,"Platform features, technology updates","LinkedIn, Twitter, YouTube",6,Market opening hours
+#WebTrading,Technology & Platform,"Platform features, technology updates","LinkedIn, Twitter, YouTube",8,Market opening hours
+#TradingInterface,Technology & Platform,"Platform features, technology updates","LinkedIn, Twitter, YouTube",8,Business hours (9 AM - 6 PM GMT)
+#UserExperience,Technology & Platform,"Platform features, technology updates","LinkedIn, Twitter, YouTube",7,Evening (6-10 PM GMT)
+#TradingInnovation,Technology & Platform,"Platform features, technology updates","LinkedIn, Twitter, YouTube",6,Weekends
+#AITrading,Technology & Platform,"Platform features, technology updates","LinkedIn, Twitter, YouTube",7,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#MachineLearning,Technology & Platform,"Platform features, technology updates","LinkedIn, Twitter, YouTube",10,Evening (6-10 PM GMT)
+#BigData,Technology & Platform,"Platform features, technology updates","LinkedIn, Twitter, YouTube",6,Market opening hours
+#CloudTrading,Technology & Platform,"Platform features, technology updates","LinkedIn, Twitter, YouTube",6,Evening (6-10 PM GMT)
+#TradingAPI,Technology & Platform,"Platform features, technology updates","LinkedIn, Twitter, YouTube",9,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#AlgorithmicStrategy,Technology & Platform,"Platform features, technology updates","LinkedIn, Twitter, YouTube",6,Evening (6-10 PM GMT)
+#QuantTrading,Technology & Platform,"Platform features, technology updates","LinkedIn, Twitter, YouTube",10,Market opening hours
+#HighFrequencyTrading,Technology & Platform,"Platform features, technology updates","LinkedIn, Twitter, YouTube",7,Evening (6-10 PM GMT)
+#LatencyTrading,Technology & Platform,"Platform features, technology updates","LinkedIn, Twitter, YouTube",7,Weekends
+#ExecutionSpeed,Technology & Platform,"Platform features, technology updates","LinkedIn, Twitter, YouTube",9,Evening (6-10 PM GMT)
+#TradingInfrastructure,Technology & Platform,"Platform features, technology updates","LinkedIn, Twitter, YouTube",10,Weekends
+#TechAnalysis,Technology & Platform,"Platform features, technology updates","LinkedIn, Twitter, YouTube",7,Evening (6-10 PM GMT)
+#DataVisualization,Technology & Platform,"Platform features, technology updates","LinkedIn, Twitter, YouTube",8,Market opening hours
+#TradingCharts,Technology & Platform,"Platform features, technology updates","LinkedIn, Twitter, YouTube",10,Business hours (9 AM - 6 PM GMT)
+#RealTimeData,Technology & Platform,"Platform features, technology updates","LinkedIn, Twitter, YouTube",10,Business hours (9 AM - 6 PM GMT)
+#MarketData,Technology & Platform,"Platform features, technology updates","LinkedIn, Twitter, YouTube",9,Weekends
+#PriceFeed,Technology & Platform,"Platform features, technology updates","LinkedIn, Twitter, YouTube",7,Weekends
+#UAETrading,Regional & Location Based,"Regional marketing, local community building","All platforms, localized content",10,Business hours (9 AM - 6 PM GMT)
+#DubaiTrading,Regional & Location Based,"Regional marketing, local community building","All platforms, localized content",7,Market opening hours
+#MiddleEastTrading,Regional & Location Based,"Regional marketing, local community building","All platforms, localized content",8,Market opening hours
+#GCCTrading,Regional & Location Based,"Regional marketing, local community building","All platforms, localized content",9,Evening (6-10 PM GMT)
+#ArabTraders,Regional & Location Based,"Regional marketing, local community building","All platforms, localized content",8,Weekends
+#IndiaTrading,Regional & Location Based,"Regional marketing, local community building","All platforms, localized content",9,Market opening hours
+#IndianTraders,Regional & Location Based,"Regional marketing, local community building","All platforms, localized content",10,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#AsiaTrading,Regional & Location Based,"Regional marketing, local community building","All platforms, localized content",9,Evening (6-10 PM GMT)
+#AsianTraders,Regional & Location Based,"Regional marketing, local community building","All platforms, localized content",6,Evening (6-10 PM GMT)
+#SouthAsiaTrading,Regional & Location Based,"Regional marketing, local community building","All platforms, localized content",7,Business hours (9 AM - 6 PM GMT)
+#GlobalTrading,Regional & Location Based,"Regional marketing, local community building","All platforms, localized content",7,Weekends
+#InternationalTrading,Regional & Location Based,"Regional marketing, local community building","All platforms, localized content",6,Market opening hours
+#CrossBorderTrading,Regional & Location Based,"Regional marketing, local community building","All platforms, localized content",8,Market opening hours
+#MultiCurrencyTrading,Regional & Location Based,"Regional marketing, local community building","All platforms, localized content",6,Evening (6-10 PM GMT)
+#WorldwideTrading,Regional & Location Based,"Regional marketing, local community building","All platforms, localized content",10,Weekends
+#IslamicTrading,Regional & Location Based,"Regional marketing, local community building","All platforms, localized content",10,Weekends
+#ShariahCompliant,Regional & Location Based,"Regional marketing, local community building","All platforms, localized content",7,Weekends
+#HalalTrading,Regional & Location Based,"Regional marketing, local community building","All platforms, localized content",10,Business hours (9 AM - 6 PM GMT)
+#SwapFreeTrading,Regional & Location Based,"Regional marketing, local community building","All platforms, localized content",7,Market opening hours
+#IslamicFinance,Regional & Location Based,"Regional marketing, local community building","All platforms, localized content",6,Weekends
+#LocalBroker,Regional & Location Based,"Regional marketing, local community building","All platforms, localized content",6,Business hours (9 AM - 6 PM GMT)
+#RegulatedBroker,Regional & Location Based,"Regional marketing, local community building","All platforms, localized content",6,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#LicensedBroker,Regional & Location Based,"Regional marketing, local community building","All platforms, localized content",7,Evening (6-10 PM GMT)
+#FSCRegulated,Regional & Location Based,"Regional marketing, local community building","All platforms, localized content",6,Market opening hours
+#ComplianceFirst,Regional & Location Based,"Regional marketing, local community building","All platforms, localized content",6,Market opening hours
+#CustomerSupport,Regional & Location Based,"Regional marketing, local community building","All platforms, localized content",8,Evening (6-10 PM GMT)
+#24x7Support,Regional & Location Based,"Regional marketing, local community building","All platforms, localized content",6,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#MultilingualSupport,Regional & Location Based,"Regional marketing, local community building","All platforms, localized content",10,Business hours (9 AM - 6 PM GMT)
+#LocalSupport,Regional & Location Based,"Regional marketing, local community building","All platforms, localized content",7,Evening (6-10 PM GMT)
+#ExpertSupport,Regional & Location Based,"Regional marketing, local community building","All platforms, localized content",8,Business hours (9 AM - 6 PM GMT)
+#MyMaaMarkets,Business & Professional,"Brand building, success stories, testimonials","LinkedIn, Twitter, Facebook",9,Business hours (9 AM - 6 PM GMT)
+#ProfessionalTrading,Business & Professional,"Brand building, success stories, testimonials","LinkedIn, Twitter, Facebook",7,Business hours (9 AM - 6 PM GMT)
+#TradingBusiness,Business & Professional,"Brand building, success stories, testimonials","LinkedIn, Twitter, Facebook",10,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#TradingCareer,Business & Professional,"Brand building, success stories, testimonials","LinkedIn, Twitter, Facebook",7,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#FinancialFreedom,Business & Professional,"Brand building, success stories, testimonials","LinkedIn, Twitter, Facebook",10,Business hours (9 AM - 6 PM GMT)
+#Entrepreneurship,Business & Professional,"Brand building, success stories, testimonials","LinkedIn, Twitter, Facebook",10,Weekends
+#BusinessGrowth,Business & Professional,"Brand building, success stories, testimonials","LinkedIn, Twitter, Facebook",9,Market opening hours
+#SuccessStory,Business & Professional,"Brand building, success stories, testimonials","LinkedIn, Twitter, Facebook",7,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#TradingSuccess,Business & Professional,"Brand building, success stories, testimonials","LinkedIn, Twitter, Facebook",9,Weekends
+#WealthCreation,Business & Professional,"Brand building, success stories, testimonials","LinkedIn, Twitter, Facebook",9,Weekends
+#FinancialGoals,Business & Professional,"Brand building, success stories, testimonials","LinkedIn, Twitter, Facebook",7,Market opening hours
+#TradingGoals,Business & Professional,"Brand building, success stories, testimonials","LinkedIn, Twitter, Facebook",6,Business hours (9 AM - 6 PM GMT)
+#InvestmentGoals,Business & Professional,"Brand building, success stories, testimonials","LinkedIn, Twitter, Facebook",6,Weekends
+#RetirementPlanning,Business & Professional,"Brand building, success stories, testimonials","LinkedIn, Twitter, Facebook",9,Weekends
+#FinancialPlanning,Business & Professional,"Brand building, success stories, testimonials","LinkedIn, Twitter, Facebook",8,Weekends
+#MarketOpportunity,Business & Professional,"Brand building, success stories, testimonials","LinkedIn, Twitter, Facebook",9,Business hours (9 AM - 6 PM GMT)
+#TradingOpportunity,Business & Professional,"Brand building, success stories, testimonials","LinkedIn, Twitter, Facebook",9,Business hours (9 AM - 6 PM GMT)
+#InvestmentOpportunity,Business & Professional,"Brand building, success stories, testimonials","LinkedIn, Twitter, Facebook",9,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#ProfitPotential,Business & Professional,"Brand building, success stories, testimonials","LinkedIn, Twitter, Facebook",6,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#GrowthPotential,Business & Professional,"Brand building, success stories, testimonials","LinkedIn, Twitter, Facebook",6,Weekends
+#MarketLeader,Business & Professional,"Brand building, success stories, testimonials","LinkedIn, Twitter, Facebook",6,Business hours (9 AM - 6 PM GMT)
+#IndustryExpert,Business & Professional,"Brand building, success stories, testimonials","LinkedIn, Twitter, Facebook",9,Business hours (9 AM - 6 PM GMT)
+#TradingExpert,Business & Professional,"Brand building, success stories, testimonials","LinkedIn, Twitter, Facebook",8,Market opening hours
+#FinancialExpert,Business & Professional,"Brand building, success stories, testimonials","LinkedIn, Twitter, Facebook",6,Weekends
+#MarketSpecialist,Business & Professional,"Brand building, success stories, testimonials","LinkedIn, Twitter, Facebook",7,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#TradingCommunity,Social & Community,"Community engagement, social proof","Instagram, Facebook, TikTok",7,Market opening hours
+#TraderLife,Social & Community,"Community engagement, social proof","Instagram, Facebook, TikTok",7,Business hours (9 AM - 6 PM GMT)
+#TradingLifestyle,Social & Community,"Community engagement, social proof","Instagram, Facebook, TikTok",10,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#TradingMotivation,Social & Community,"Community engagement, social proof","Instagram, Facebook, TikTok",9,Weekends
+#TradingInspiration,Social & Community,"Community engagement, social proof","Instagram, Facebook, TikTok",7,Business hours (9 AM - 6 PM GMT)
+#SuccessfulTrader,Social & Community,"Community engagement, social proof","Instagram, Facebook, TikTok",9,Weekends
+#MillionaireTrader,Social & Community,"Community engagement, social proof","Instagram, Facebook, TikTok",7,Market opening hours
+#TradingInfluencer,Social & Community,"Community engagement, social proof","Instagram, Facebook, TikTok",8,Market opening hours
+#TradingCoach,Social & Community,"Community engagement, social proof","Instagram, Facebook, TikTok",9,Market opening hours
+#TradingGuru,Social & Community,"Community engagement, social proof","Instagram, Facebook, TikTok",7,Evening (6-10 PM GMT)
+#TradingFamily,Social & Community,"Community engagement, social proof","Instagram, Facebook, TikTok",6,Weekends
+#TradingFriends,Social & Community,"Community engagement, social proof","Instagram, Facebook, TikTok",9,Market opening hours
+#TradingNetwork,Social & Community,"Community engagement, social proof","Instagram, Facebook, TikTok",10,Market opening hours
+#TradingSupport,Social & Community,"Community engagement, social proof","Instagram, Facebook, TikTok",6,Weekends
+#TradingHelp,Social & Community,"Community engagement, social proof","Instagram, Facebook, TikTok",6,Market opening hours
+#ShareYourTrade,Social & Community,"Community engagement, social proof","Instagram, Facebook, TikTok",10,Weekends
+#TradingResult,Social & Community,"Community engagement, social proof","Instagram, Facebook, TikTok",6,Business hours (9 AM - 6 PM GMT)
+#TradingWin,Social & Community,"Community engagement, social proof","Instagram, Facebook, TikTok",6,Weekends
+#TradingProfit,Social & Community,"Community engagement, social proof","Instagram, Facebook, TikTok",7,Weekends
+#MoneyMaking,Social & Community,"Community engagement, social proof","Instagram, Facebook, TikTok",7,Evening (6-10 PM GMT)
+#FinancialIndependence,Social & Community,"Community engagement, social proof","Instagram, Facebook, TikTok",9,Business hours (9 AM - 6 PM GMT)
+#MillionaireMindset,Social & Community,"Community engagement, social proof","Instagram, Facebook, TikTok",9,Evening (6-10 PM GMT)
+#WealthMindset,Social & Community,"Community engagement, social proof","Instagram, Facebook, TikTok",9,Market opening hours
+#SuccessMindset,Social & Community,"Community engagement, social proof","Instagram, Facebook, TikTok",7,Weekends
+#TradingQuote,Social & Community,"Community engagement, social proof","Instagram, Facebook, TikTok",9,Business hours (9 AM - 6 PM GMT)
+#Trending,Trending & Popular,"Viral content, trending topics","TikTok, Instagram, Twitter",6,Evening (6-10 PM GMT)
+#Viral,Trending & Popular,"Viral content, trending topics","TikTok, Instagram, Twitter",7,Weekends
+#Popular,Trending & Popular,"Viral content, trending topics","TikTok, Instagram, Twitter",9,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#Hot,Trending & Popular,"Viral content, trending topics","TikTok, Instagram, Twitter",6,Evening (6-10 PM GMT)
+#Breaking,Trending & Popular,"Viral content, trending topics","TikTok, Instagram, Twitter",9,Business hours (9 AM - 6 PM GMT)
+#Latest,Trending & Popular,"Viral content, trending topics","TikTok, Instagram, Twitter",8,Evening (6-10 PM GMT)
+#Update,Trending & Popular,"Viral content, trending topics","TikTok, Instagram, Twitter",9,Evening (6-10 PM GMT)
+#News,Trending & Popular,"Viral content, trending topics","TikTok, Instagram, Twitter",8,Evening (6-10 PM GMT)
+#Alert,Trending & Popular,"Viral content, trending topics","TikTok, Instagram, Twitter",9,Market opening hours
+#Opportunity,Trending & Popular,"Viral content, trending topics","TikTok, Instagram, Twitter",10,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#MustKnow,Trending & Popular,"Viral content, trending topics","TikTok, Instagram, Twitter",9,Business hours (9 AM - 6 PM GMT)
+#Important,Trending & Popular,"Viral content, trending topics","TikTok, Instagram, Twitter",7,Business hours (9 AM - 6 PM GMT)
+#Critical,Trending & Popular,"Viral content, trending topics","TikTok, Instagram, Twitter",7,Business hours (9 AM - 6 PM GMT)
+#Urgent,Trending & Popular,"Viral content, trending topics","TikTok, Instagram, Twitter",8,Weekends
+#TimelyValue,Trending & Popular,"Viral content, trending topics","TikTok, Instagram, Twitter",7,Business hours (9 AM - 6 PM GMT)
+#GameChanger,Trending & Popular,"Viral content, trending topics","TikTok, Instagram, Twitter",6,Business hours (9 AM - 6 PM GMT)
+#Revolutionary,Trending & Popular,"Viral content, trending topics","TikTok, Instagram, Twitter",10,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#Innovative,Trending & Popular,"Viral content, trending topics","TikTok, Instagram, Twitter",10,Weekends
+#Disruptive,Trending & Popular,"Viral content, trending topics","TikTok, Instagram, Twitter",6,Weekends
+#NextLevel,Trending & Popular,"Viral content, trending topics","TikTok, Instagram, Twitter",8,Evening (6-10 PM GMT)
+#ProTip,Trending & Popular,"Viral content, trending topics","TikTok, Instagram, Twitter",6,Market opening hours
+#InsiderTip,Trending & Popular,"Viral content, trending topics","TikTok, Instagram, Twitter",6,Weekends
+#ExpertAdvice,Trending & Popular,"Viral content, trending topics","TikTok, Instagram, Twitter",10,Weekends
+#SmartMoney,Trending & Popular,"Viral content, trending topics","TikTok, Instagram, Twitter",9,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#BigMove,Trending & Popular,"Viral content, trending topics","TikTok, Instagram, Twitter",10,Business hours (9 AM - 6 PM GMT)
+#StartTrading,Action & Engagement,"Call-to-action posts, promotional content",All platforms,10,Weekends
+#JoinNow,Action & Engagement,"Call-to-action posts, promotional content",All platforms,7,Weekends
+#GetStarted,Action & Engagement,"Call-to-action posts, promotional content",All platforms,6,Market opening hours
+#LearnMore,Action & Engagement,"Call-to-action posts, promotional content",All platforms,10,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#DiscoverMore,Action & Engagement,"Call-to-action posts, promotional content",All platforms,6,Market opening hours
+#TakeAction,Action & Engagement,"Call-to-action posts, promotional content",All platforms,7,Weekends
+#InvestNow,Action & Engagement,"Call-to-action posts, promotional content",All platforms,6,Weekends
+#TradeNow,Action & Engagement,"Call-to-action posts, promotional content",All platforms,10,"Peak hours (9-11 AM, 7-9 PM GMT)"
+#SignUpToday,Action & Engagement,"Call-to-action posts, promotional content",All platforms,6,Evening (6-10 PM GMT)
+#DontMiss,Action & Engagement,"Call-to-action posts, promotional content",All platforms,7,Evening (6-10 PM GMT)
+#LimitedTime,Action & Engagement,"Call-to-action posts, promotional content",All platforms,9,Weekends
+#ExclusiveOffer,Action & Engagement,"Call-to-action posts, promotional content",All platforms,6,Weekends
+#SpecialDeal,Action & Engagement,"Call-to-action posts, promotional content",All platforms,10,Market opening hours
+#BestOffer,Action & Engagement,"Call-to-action posts, promotional content",All platforms,7,Market opening hours
+#ActFast,Action & Engagement,"Call-to-action posts, promotional content",All platforms,10,Market opening hours
