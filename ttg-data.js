@@ -12,17 +12,17 @@ class TTGDashboardData {
         // Platform data from TTG CSV with actual Google Docs links
         this.platforms = [
             { sno: '', platform: 'Website', pastStatus: 'Already in Place', committed: '--', drafted: '--', published: '--', contentCreated: '', category: 'Digital Identity', primaryContent: '' },
-            { sno: 1, platform: 'Website- blogs', pastStatus: '0', committed: 400, drafted: 30, published: 0, contentCreated: 'Link', category: 'Professional Writing', primaryContent: 'Long-form Articles, Thought Leadership' },
+            { sno: 1, platform: 'Website- blogs', pastStatus: '0', committed: 400, drafted: 30, published: 0, contentCreated: 'https://docs.google.com/document/d/13JSIXHTsARsDDTkbEegV3VN3vpvBaldHqa9XLQjTb1c/edit?usp=drive_link', category: 'Professional Writing', primaryContent: 'Long-form Articles, Thought Leadership' },
             { sno: 2, platform: 'Website Downloadable', pastStatus: '0', committed: 15, drafted: 0, published: 0, contentCreated: '', category: 'Informational Content', primaryContent: 'Infographics, Product related, knowledge articles' },
             { sno: 3, platform: 'Google Business', pastStatus: 'Not Available', committed: 30, drafted: 1, published: 0, contentCreated: 'https://docs.google.com/document/d/1rdSnXZIZnxQp9JXLPwFQHdxz_jUj4JF-_VJ_23WSu8k/edit?usp=drive_link', category: 'Local Business', primaryContent: 'Business Info, Reviews, Local Posts' },
             { sno: 4, platform: 'Linkedin', pastStatus: 'Active', committed: 30, drafted: 5, published: 0, contentCreated: 'https://docs.google.com/document/d/1TH_uIxnpil-Qfq-olxqvAwymSFLF6Kq3MQZLqLUUaik/edit?usp=drive_link', category: 'Professional Network', primaryContent: 'Articles, Company Updates, Industry News' },
-            { sno: 5, platform: 'YouTube', pastStatus: 'Not Active', committed: 15, drafted: 1, published: 0, contentCreated: 'Link', category: 'Long-Form Video', primaryContent: 'Long Videos, Tutorials, Vlogs' },
+            { sno: 5, platform: 'YouTube', pastStatus: 'Not Active', committed: 15, drafted: 1, published: 0, contentCreated: 'https://drive.google.com/drive/folders/12sqQc9RSHFNcFKAI2CoB1aZd8-BYdM8N?usp=drive_link', category: 'Long-Form Video', primaryContent: 'Long Videos, Tutorials, Vlogs' },
             { sno: 6, platform: 'Tiktok', pastStatus: 'Not Active', committed: 15, drafted: 0, published: 0, contentCreated: 'Link', category: 'Short-Form Video', primaryContent: 'Short Videos, Challenges, Trends' },
             { sno: 7, platform: 'Instagram', pastStatus: 'Active', committed: 30, drafted: 1, published: 0, contentCreated: 'https://docs.google.com/document/d/1DvL1LqnQuxcd2DYExyEATZ--7kCA8nMTGVDk_UEVKYM/edit?usp=drive_link', category: 'Visual Content', primaryContent: 'Images, Stories, Reels, IGTV' },
-            { sno: 8, platform: 'PinInterest', pastStatus: 'Not Active', committed: 30, drafted: 0, published: 0, contentCreated: '', category: 'Visual Content', primaryContent: 'Infographics, Product Images, Boards' },
-            { sno: 9, platform: 'X (Twitter)', pastStatus: 'Not Active', committed: 30, drafted: 1, published: 0, contentCreated: 'Link', category: 'Real-Time Social', primaryContent: 'Real-time Updates, News, Discussions' },
-            { sno: 10, platform: 'Facebook', pastStatus: 'Not Active', committed: 30, drafted: 0, published: 0, contentCreated: '', category: 'Social Community', primaryContent: 'Mixed Content, Community Posts, Events' },
-            { sno: 11, platform: 'Medium', pastStatus: 'Not Active', committed: 30, drafted: 0, published: 0, contentCreated: '', category: 'Professional Writing', primaryContent: 'Long-form Articles, Thought Leadership' },
+            { sno: 8, platform: 'PinInterest', pastStatus: 'Not Active', committed: 30, drafted: 0, published: 0, contentCreated: 'https://docs.google.com/document/d/1hI6QYAvW7ZLrVxl6ifJViaXsCP3u3q70BpQyLgcWqOo/edit?usp=drive_link', category: 'Visual Content', primaryContent: 'Infographics, Product Images, Boards' },
+            { sno: 9, platform: 'X (Twitter)', pastStatus: 'Not Active', committed: 30, drafted: 1, published: 0, contentCreated: 'https://docs.google.com/document/d/1MoloWzcC6vcZQ48fRo4u7RfKe2Rs76dvqQFDTY6ay3M/edit?usp=drive_link', category: 'Real-Time Social', primaryContent: 'Real-time Updates, News, Discussions' },
+            { sno: 10, platform: 'Facebook', pastStatus: 'Not Active', committed: 30, drafted: 0, published: 0, contentCreated: 'https://docs.google.com/document/d/1CxUze-vctsXMw9UIWEtWFPAvvcd5XfvlRe9q26gw6Fw/edit?usp=drive_link', category: 'Social Community', primaryContent: 'Mixed Content, Community Posts, Events' },
+            { sno: 11, platform: 'Medium', pastStatus: 'Not Active', committed: 30, drafted: 0, published: 0, contentCreated: 'https://docs.google.com/document/d/1rjiB3V_xxt2tfwg9SVbbMUWSlMbskIqKbJ6BMLH4vKs/edit?usp=drive_link', category: 'Professional Writing', primaryContent: 'Long-form Articles, Thought Leadership' },
             { sno: 12, platform: 'Tumblr', pastStatus: 'Not Active', committed: 30, drafted: 0, published: 0, contentCreated: '', category: 'Creative Blogging', primaryContent: 'Creative Content, GIFs, Art' },
             { sno: 13, platform: 'Threads', pastStatus: 'Not Active', committed: 30, drafted: 0, published: 0, contentCreated: '', category: 'Micro-Blogging', primaryContent: 'Short Posts, Real-time Updates' },
             { sno: 14, platform: 'Quora', pastStatus: 'Not Active', committed: 30, drafted: 0, published: 0, contentCreated: '', category: 'Q&A Content', primaryContent: 'Expert Answers, Industry Knowledge' },
@@ -160,6 +160,11 @@ class TTGDashboardData {
         // Check if it's a Google Docs link
         if (contentCreated.startsWith('https://docs.google.com/')) {
             return `<a href="${contentCreated}" target="_blank" class="content-link">📄 View Content Plan</a>`;
+        }
+        
+        // Check if it's a Google Drive link
+        if (contentCreated.startsWith('https://drive.google.com/')) {
+            return `<a href="${contentCreated}" target="_blank" class="content-link">📁 View Content Folder</a>`;
         }
         
         // For "Link" text without actual URL

@@ -203,6 +203,8 @@ class TTGDashboard {
                 if (platform.contentCreated) {
                     if (platform.contentCreated.startsWith('https://docs.google.com/')) {
                         contentCreatedDisplay = `<a href="${platform.contentCreated}" target="_blank" class="content-link">📄 View Content Plan</a>`;
+                    } else if (platform.contentCreated.startsWith('https://drive.google.com/')) {
+                        contentCreatedDisplay = `<a href="${platform.contentCreated}" target="_blank" class="content-link">📁 View Content Folder</a>`;
                     } else if (platform.contentCreated === 'Link') {
                         contentCreatedDisplay = '<span class="content-placeholder">📝 Content Link</span>';
                     } else {
