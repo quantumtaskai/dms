@@ -12,18 +12,18 @@ class ReddotDashboardData {
         // Platform data from Reddot CSV with actual Google Docs links
         this.platforms = [
             { sno: '', platform: 'Website', pastStatus: 'Already in Place', committed: '--', drafted: '--', published: '--', contentCreated: '', category: 'Digital Identity', primaryContent: '' },
-            { sno: 1, platform: 'Website- blogs', pastStatus: 'Not Active', committed: 400, drafted: 0, published: 0, contentCreated: 'https://docs.google.com/document/d/1KLdqfleDIyuAH-xdZYCqPlEVqqqQahdWHeNxeGhQ4mI/edit?usp=drive_link', category: 'Professional Writing', primaryContent: 'Long-form Articles, Thought Leadership' },
-            { sno: 2, platform: 'Website Downloadable', pastStatus: 'Not Active', committed: 0, drafted: 0, published: 0, contentCreated: 'https://docs.google.com/document/d/1wNXUmUtpAIFkJKSsigESAWQ3iyfiBaMO-upq6PHseRg/edit?usp=drive_link', category: 'Informational Content', primaryContent: 'Infographics, Product related, knowledge articles' },
-            { sno: 3, platform: 'Google Business', pastStatus: 'Not Active', committed: 0, drafted: 0, published: 0, contentCreated: 'https://docs.google.com/document/d/13CfHO2BSMQ-hIZ-Ix05vzKa6c02Cq1zoxN4TlquH7Sw/edit?usp=drive_link', category: 'Local Business', primaryContent: 'Business Info, Reviews, Local Posts' },
-            { sno: 4, platform: 'Linkedin', pastStatus: 'Not Active', committed: 0, drafted: 0, published: 0, contentCreated: 'https://docs.google.com/document/d/1nMDbcpbB0bQ90P8guHZE3iy6m827Jcve4DqV3uJYWFU/edit?usp=drive_link', category: 'Professional Network', primaryContent: 'Articles, Company Updates, Industry News' },
-            { sno: 5, platform: 'YouTube', pastStatus: 'Not Active', committed: 0, drafted: 0, published: 0, contentCreated: 'https://drive.google.com/drive/folders/1VjLK1PtsG1A4cdGsDmRWRdNkr3AJA2Md?usp=drive_link', category: 'Long-Form Video', primaryContent: 'Long Videos, Tutorials, Vlogs' },
-            { sno: 6, platform: 'Tiktok', pastStatus: 'Not Active', committed: 0, drafted: 0, published: 0, contentCreated: '', category: 'Short-Form Video', primaryContent: 'Short Videos, Challenges, Trends' },
-            { sno: 7, platform: 'Instagram', pastStatus: 'Active', committed: 0, drafted: 0, published: 0, contentCreated: 'https://docs.google.com/document/d/1wbCr8wavITL10BnEAdURYDKzqgsIEbPnoyo6vjnD9co/edit?usp=drive_link', category: 'Visual Content', primaryContent: 'Images, Stories, Reels, IGTV' },
-            { sno: 8, platform: 'PinInterest', pastStatus: 'Not Active', committed: 0, drafted: 0, published: 0, contentCreated: 'https://docs.google.com/document/d/1qmdzoOdBIFu-ZKsmVfg85ugij4isTlN7rzeMRp3pFOU/edit?usp=drive_link', category: 'Visual Content', primaryContent: 'Infographics, Product Images, Boards' },
-            { sno: 9, platform: 'X (Twitter)', pastStatus: 'Not Active', committed: 0, drafted: 0, published: 0, contentCreated: 'https://docs.google.com/document/d/106-J7VxbGOcmcUYL32L4Wx9Cefk8FawMA0Vi9rbHITI/edit?usp=drive_link', category: 'Real-Time Social', primaryContent: 'Real-time Updates, News, Discussions' },
-            { sno: 10, platform: 'Facebook', pastStatus: 'Active', committed: 0, drafted: 0, published: 0, contentCreated: 'https://docs.google.com/document/d/1cw5TJhTsuIbNSEkMYGp6xrhHBTPQi6J1QNGKrE_97fU/edit?usp=drive_link', category: 'Social Community', primaryContent: 'Mixed Content, Community Posts, Events' },
-            { sno: 11, platform: 'Medium', pastStatus: 'Not Active', committed: 0, drafted: 0, published: 0, contentCreated: 'https://docs.google.com/document/d/1zxVTTTxG3-M5NIQJwElBlmD9kusruLawBJHvpsc8a5E/edit?usp=drive_link', category: 'Professional Writing', primaryContent: 'Long-form Articles, Thought Leadership' },
-            { sno: 12, platform: 'Threads', pastStatus: 'Not Active', committed: 0, drafted: 0, published: 0, contentCreated: 'https://docs.google.com/document/d/16rUK1zYdRsW2OcvCpcxIHyYNfF2dPL9fVIvoUkm_pIw/edit?usp=drive_link', category: 'Micro-Blogging', primaryContent: 'Short Posts, Real-time Updates' }
+            { sno: 1, platform: 'Website- blogs', pastStatus: 'Not Active', committed: 50, drafted: 10, published: 0, contentCreated: 'https://docs.google.com/document/d/1KLdqfleDIyuAH-xdZYCqPlEVqqqQahdWHeNxeGhQ4mI/edit?usp=drive_link', category: 'Professional Writing', primaryContent: 'Long-form Articles, Thought Leadership' },
+            { sno: 2, platform: 'Website Downloadable', pastStatus: 'Not Active', committed: 10, drafted: 1, published: 0, contentCreated: 'https://docs.google.com/document/d/1wNXUmUtpAIFkJKSsigESAWQ3iyfiBaMO-upq6PHseRg/edit?usp=drive_link', category: 'Informational Content', primaryContent: 'Infographics, Product related, knowledge articles' },
+            { sno: 3, platform: 'Google Business', pastStatus: 'Not Active', committed: 100, drafted: 10, published: 0, contentCreated: 'https://docs.google.com/document/d/13CfHO2BSMQ-hIZ-Ix05vzKa6c02Cq1zoxN4TlquH7Sw/edit?usp=drive_link', category: 'Local Business', primaryContent: 'Business Info, Reviews, Local Posts' },
+            { sno: 4, platform: 'Linkedin', pastStatus: 'Not Active', committed: 45, drafted: 10, published: 0, contentCreated: 'https://docs.google.com/document/d/1nMDbcpbB0bQ90P8guHZE3iy6m827Jcve4DqV3uJYWFU/edit?usp=drive_link', category: 'Professional Network', primaryContent: 'Articles, Company Updates, Industry News' },
+            { sno: 5, platform: 'YouTube', pastStatus: 'Not Active', committed: 5, drafted: 1, published: 0, contentCreated: 'https://drive.google.com/drive/folders/1VjLK1PtsG1A4cdGsDmRWRdNkr3AJA2Md?usp=drive_link', category: 'Long-Form Video', primaryContent: 'Long Videos, Tutorials, Vlogs' },
+            { sno: 6, platform: 'Tiktok', pastStatus: 'Not Active', committed: 10, drafted: 1, published: 0, contentCreated: '', category: 'Short-Form Video', primaryContent: 'Short Videos, Challenges, Trends' },
+            { sno: 7, platform: 'Instagram', pastStatus: 'Active', committed: 180, drafted: 45, published: 0, contentCreated: 'https://docs.google.com/document/d/1wbCr8wavITL10BnEAdURYDKzqgsIEbPnoyo6vjnD9co/edit?usp=drive_link', category: 'Visual Content', primaryContent: 'Images, Stories, Reels, IGTV' },
+            { sno: 8, platform: 'PinInterest', pastStatus: 'Not Active', committed: 180, drafted: 30, published: 0, contentCreated: 'https://docs.google.com/document/d/1qmdzoOdBIFu-ZKsmVfg85ugij4isTlN7rzeMRp3pFOU/edit?usp=drive_link', category: 'Visual Content', primaryContent: 'Infographics, Product Images, Boards' },
+            { sno: 9, platform: 'X (Twitter)', pastStatus: 'Not Active', committed: 180, drafted: 30, published: 0, contentCreated: 'https://docs.google.com/document/d/106-J7VxbGOcmcUYL32L4Wx9Cefk8FawMA0Vi9rbHITI/edit?usp=drive_link', category: 'Real-Time Social', primaryContent: 'Real-time Updates, News, Discussions' },
+            { sno: 10, platform: 'Facebook', pastStatus: 'Active', committed: 180, drafted: 30, published: 0, contentCreated: 'https://docs.google.com/document/d/1cw5TJhTsuIbNSEkMYGp6xrhHBTPQi6J1QNGKrE_97fU/edit?usp=drive_link', category: 'Social Community', primaryContent: 'Mixed Content, Community Posts, Events' },
+            { sno: 11, platform: 'Medium', pastStatus: 'Not Active', committed: 30, drafted: 5, published: 0, contentCreated: 'https://docs.google.com/document/d/1zxVTTTxG3-M5NIQJwElBlmD9kusruLawBJHvpsc8a5E/edit?usp=drive_link', category: 'Professional Writing', primaryContent: 'Long-form Articles, Thought Leadership' },
+            { sno: 12, platform: 'Threads', pastStatus: 'Not Active', committed: 30, drafted: 5, published: 0, contentCreated: 'https://docs.google.com/document/d/16rUK1zYdRsW2OcvCpcxIHyYNfF2dPL9fVIvoUkm_pIw/edit?usp=drive_link', category: 'Micro-Blogging', primaryContent: 'Short Posts, Real-time Updates' }
         ];
 
         // Sample of hashtag data for Events industry
@@ -73,9 +73,13 @@ class ReddotDashboardData {
         const inactivePlatforms = this.platforms.filter(p => p.pastStatus === 'Not Active').length;
         const alreadyInPlace = this.platforms.filter(p => p.pastStatus === 'Already in Place').length;
         
-        // Calculate content metrics - Updated totals from Reddot CSV
-        const totalCommitted = 400; // From CSV total (only blog articles)
-        const totalDrafted = 0;     // From CSV total
+        // Calculate content metrics - Updated totals from platform data
+        const totalCommitted = this.platforms.reduce((sum, p) => {
+            return sum + (typeof p.committed === 'number' ? p.committed : 0);
+        }, 0);
+        const totalDrafted = this.platforms.reduce((sum, p) => {
+            return sum + (typeof p.drafted === 'number' ? p.drafted : 0);
+        }, 0);
         
         // Calculate hashtag analytics
         const categoryBreakdown = {};

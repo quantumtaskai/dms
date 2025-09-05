@@ -37,27 +37,7 @@ class ReddotDashboard {
     }
 
     initEventListeners() {
-        // Tab navigation
-        document.querySelectorAll('.tab-btn').forEach(btn => {
-            btn.addEventListener('click', (e) => {
-                const tabName = e.target.getAttribute('data-tab');
-                this.switchTab(tabName);
-            });
-        });
-
-        // Search and filter
-        const searchInput = document.getElementById('searchInput');
-        const filterSelect = document.getElementById('filterSelect');
-
-        searchInput.addEventListener('input', (e) => {
-            this.searchTerm = e.target.value.toLowerCase();
-            this.applyFilters();
-        });
-
-        filterSelect.addEventListener('change', (e) => {
-            this.filterValue = e.target.value;
-            this.applyFilters();
-        });
+        // No tab navigation or search/filter elements since they were removed
     }
 
     switchTab(tabName) {
@@ -110,7 +90,7 @@ class ReddotDashboard {
 
     loadPlatformPerformance() {
         this.createPlatformStatusChart();
-        this.loadContentPipeline();
+        this.loadMetricsSummary();
         this.loadPlatformGrid();
     }
 
@@ -152,6 +132,54 @@ class ReddotDashboard {
                 }
             }
         });
+    }
+
+    loadMetricsSummary() {
+        const container = document.getElementById('metricsSummary');
+        if (!container) return;
+
+        const contentMetrics = reddotDashboardData.getContentMetrics();
+        const topPlatforms = reddotDashboardData.platforms
+            .filter(p => p.committed > 0)
+            .sort((a, b) => b.committed - a.committed)
+            .slice(0, 3);
+
+        const completionRate = contentMetrics.totalCommitted > 0 ? 
+            Math.round((contentMetrics.totalDrafted / contentMetrics.totalCommitted) * 100) : 0;
+
+        container.innerHTML = `
+            <div style="display: flex; flex-direction: column; gap: 1rem;">
+                <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.5rem;">
+                    <div style="text-align: center; padding: 0.5rem; background: var(--bg-tertiary); border-radius: 6px;">
+                        <div style="font-size: 1.5rem; font-weight: bold; color: var(--accent-primary);">${contentMetrics.totalCommitted}</div>
+                        <div style="font-size: 0.7rem; color: var(--text-secondary);">Committed</div>
+                    </div>
+                    <div style="text-align: center; padding: 0.5rem; background: var(--bg-tertiary); border-radius: 6px;">
+                        <div style="font-size: 1.5rem; font-weight: bold; color: var(--accent-warning);">${contentMetrics.totalDrafted}</div>
+                        <div style="font-size: 0.7rem; color: var(--text-secondary);">Drafted</div>
+                    </div>
+                    <div style="text-align: center; padding: 0.5rem; background: var(--bg-tertiary); border-radius: 6px;">
+                        <div style="font-size: 1.5rem; font-weight: bold; color: var(--accent-success);">${completionRate}%</div>
+                        <div style="font-size: 0.7rem; color: var(--text-secondary);">Rate</div>
+                    </div>
+                </div>
+                
+                <div>
+                    <h4 style="color: var(--text-secondary); margin-bottom: 0.5rem; font-size: 0.8rem;">Top Platforms</h4>
+                    <div style="display: flex; flex-direction: column; gap: 0.4rem;">
+                        ${topPlatforms.map(platform => `
+                            <div style="display: flex; justify-content: space-between; align-items: center; padding: 0.4rem 0.6rem; background: var(--bg-tertiary); border-radius: 4px;">
+                                <span style="font-size: 0.75rem; color: var(--text-primary); font-weight: 500;">${platform.platform}</span>
+                                <div style="display: flex; gap: 0.5rem; font-size: 0.7rem;">
+                                    <span style="color: var(--accent-primary);">${platform.committed}C</span>
+                                    <span style="color: var(--accent-warning);">${platform.drafted}D</span>
+                                </div>
+                            </div>
+                        `).join('')}
+                    </div>
+                </div>
+            </div>
+        `;
     }
 
     loadContentPipeline() {
