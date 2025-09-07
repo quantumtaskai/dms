@@ -238,6 +238,16 @@ class ReddotDashboard {
                     }
                 }
 
+                // Format the platform link
+                let platformLinkDisplay = '';
+                if (platform.platformLink && platform.platformLink !== '') {
+                    if (platform.platformLink === 'via Instagram') {
+                        platformLinkDisplay = `<span class="platform-link-text">via Instagram</span>`;
+                    } else {
+                        platformLinkDisplay = `<a href="${platform.platformLink}" target="_blank" class="content-link">🔗 Visit Platform</a>`;
+                    }
+                }
+
                 return `
                     <div class="platform-card">
                         <div class="platform-header">
@@ -260,6 +270,7 @@ class ReddotDashboard {
                         </div>
                         <div class="platform-info">
                             <div class="platform-category"><strong>Category:</strong> ${platform.category}</div>
+                            ${platformLinkDisplay ? `<div class="platform-link"><strong>Platform Link:</strong> ${platformLinkDisplay}</div>` : ''}
                             ${contentCreatedDisplay ? `<div class="content-created"><strong>Content Created:</strong> ${contentCreatedDisplay}</div>` : ''}
                             <div class="platform-content"><strong>Primary Content:</strong> ${platform.primaryContent}</div>
                         </div>

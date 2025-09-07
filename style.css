@@ -293,16 +293,25 @@ body {
     border-top: 1px solid var(--border-color);
 }
 
-.platform-category, .content-created, .platform-content {
+.platform-category, .platform-link, .content-created, .platform-content {
     font-size: 0.9rem;
     color: var(--text-secondary);
     margin-bottom: 0.5rem;
     line-height: 1.4;
 }
 
-.platform-category strong, .content-created strong, .platform-content strong {
+.platform-category strong, .platform-link strong, .content-created strong, .platform-content strong {
     color: var(--text-primary);
     font-weight: 600;
+}
+
+.platform-link-text {
+    color: var(--text-muted);
+    font-style: italic;
+    padding: 0.2rem 0.4rem;
+    background: rgba(107, 112, 147, 0.1);
+    border-radius: 4px;
+    font-size: 0.8rem;
 }
 
 /* Content Pipeline */
